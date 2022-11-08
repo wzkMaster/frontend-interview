@@ -44,7 +44,7 @@ JS无疑是最重点的考察项目，但JS的优质资料是非常多的，例�
 
 除了常规的算法题，面试的时候也会考察一些JS的手写代码题目，通常是一些原生API的实现，这类题目掘金上也有很多整理，找一篇看一看，自己写一写。
 
-计算机基础最好的参考资料是著名的CSAPP，但这本书是真的厚，反正我看不下去。推荐看一下Computer Science Crash Course，了解基本的知识体系。还有System Design Interview和How Software Works这两本书，了解一下关于系统设计、密码学、图像视频编码的基本知识，这些都是可能会问到的。即使不从面试的角度考虑，了解这一段所说的知识也是很有益的，因为它们是我们这个信息时代的基石。
+计算机基础最好的参考资料是著名的CSAPP，但这本书是真的厚，反正我看不下去。推荐看一下[Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)，了解基本的知识体系。还有System Design Interview和How Software Works这两本书，了解一下关于系统设计、密码学、图像视频编码的基本知识，这些都是可能会问到的。即使不从面试的角度考虑，了解这一段所说的知识也是很有益的，因为它们是我们这个信息时代的基石。
 
 ## 项目和软素质
 
