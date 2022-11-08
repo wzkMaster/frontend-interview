@@ -22,11 +22,11 @@
 
 CSS通常都是考察的重点之一，常见的问题包括position的不同取值，grid和flex的相关知识，垂直居中、两栏三栏布局等的实现（记得越多种越好），伪类和伪元素等等。相关的八股在掘金上面有很多很好的整理了，找一篇过一过就好。同样的也要想一想在实际项目中的应用。
 
-有些面试官也会问一些比较冷门的知识点，例如我之前就被问了一个`nth-of-type`这个伪类，这种只能看平时的积累了。推荐FrontendMasters上面Jen Kramer的课程，她会用到一些比较少见的HTML和CSS的东西，可以开拓一下视野。
+有些面试官也会问一些比较冷门的知识点，例如我之前就被问了一个`nth-of-type`这个伪类，这种只能看平时的积累了。推荐FrontendMasters上面[Jen Kramer](https://frontendmasters.com/courses/intermediate-html-css/)的课程，她会用到一些比较少见的HTML和CSS的东西，可以开拓一下视野。
 
 ### JS
 
-JS无疑是最重点的考察项目，但JS的优质资料是非常多的，例如**犀牛书、红宝书、现代JS教程、你不知道的JS**，前面说的那两本书的目录就相当于你的复习提纲。一些难理解的知识（例如时间循环，JS引擎原理等）可以看一些讲座视频，例如JSConf等，在Youtube上面检索关键词（英文）就好。Frontend Masters上面Kyle Simpson和hard parts系列课程都是非常值得一看的。
+JS无疑是最重点的考察项目，但JS的优质资料是非常多的，例如**犀牛书、红宝书、[现代JS教程](https://zh.javascript.info/)、[你不知道的JS](https://github.com/getify/You-Dont-Know-JS)**，前面说的那两本书的目录就相当于你的复习提纲。一些难理解的知识（例如时间循环，JS引擎原理等）可以看一些讲座视频，例如JSConf等，在Youtube上面检索关键词（英文）就好。Frontend Masters上面[Kyle Simpson](https://frontendmasters.com/courses/deep-javascript-v3/)和[hard parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)系列课程都是非常值得一看的。
 
 ### 计算机网络
 
