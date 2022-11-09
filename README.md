@@ -58,7 +58,7 @@ JS无疑是最重点的考察项目，但JS的优质资料是非常多的，例�
 
 学习设计模式可以帮你写出更好的代码，学了之后要学会用于日常的编码实践中。面试的时候设计模式也是经常会被考察到的。这方面曾探的**JavaScript设计模式与开发实践**是经典书籍，[这本小册](https://juejin.cn/book/6844733790204461070?enter_from=course_center)也非常值得参考。
 
-计算机基础最好的参考资料是著名的CSAPP，但这本书是真的厚，反正我看不下去。推荐看一下Computer Science Crash Course，了解基本的知识体系。还有System Design Interview和How Software Works这两本书，了解一下关于系统设计、密码学、图像视频编码的基本知识，这些都是可能会问到的。[Scott Hansleman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)的这个播放列表也非常值得一看。
+计算机基础最好的参考资料是著名的CSAPP，但这本书是真的厚，反正我看不下去。推荐看一下[Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)，了解基本的知识体系。还有System Design Interview和How Software Works这两本书，了解一下关于系统设计、密码学、图像视频编码的基本知识，这些都是可能会问到的。[Scott Hansleman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)的这个播放列表也非常值得一看。
 
 ## 项目和软素质
 
